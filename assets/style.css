@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/* 共通部分
+------------------------------- */
+svg{
+    width:1000px;
+    height: 1000px;;
+    text-align: center;
+}
+#car01{
+    position: relative;
+}
